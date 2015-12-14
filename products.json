@@ -1,0 +1,29 @@
+[{
+  "name": "Dodecahedron",
+  "price": "2.95",
+  "description": "This is a Dodecahedron",
+  "canPurchase": true,
+  "soldOut": true,
+  "images": [
+    {
+      "full": "cactusfleur.jpg",
+      "thumb": "'cactusfleur.jpg'"
+  },
+    {
+      "full": "'cafecito.jpg'",
+      "thumb": "'cafecito.jpg'"
+    }
+],
+  "reviews":[
+    {
+      "stars": 5,
+      "body": "I love this product!",
+      "author": "joe@thomas.com"
+
+  },
+    {
+      "stars": 1,
+      "body": "This product sucks",
+      "author": "time@hater.com"
+  }]
+}]
